@@ -24,20 +24,37 @@
 	d8e4dbf30b3d47efa06ad22eacac4d26
 
 # File marks:
-'0  2  2  ~/b.sh
-'1  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+'0  2  2  ~/c.sh
+'1  2  3  ~/b.sh
+'2  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 
 # Jumplist (newest first):
--'  2  2  ~/b.sh
+-'  2  2  ~/c.sh
+-'  1  0  ~/c.sh
+-'  2  3  ~/b.sh
 -'  1  0  ~/b.sh
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+-'  2  3  ~/b.sh
+-'  1  0  ~/b.sh
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 
 # History of marks within files (newest to oldest):
 
-> ~/b.sh
+> ~/c.sh
 	"	2	2
 	^	2	3
+	.	2	3
+	+	2	3
+
+> ~/b.sh
+	"	2	3
+	^	2	4
 	.	2	3
 	+	2	3
 
