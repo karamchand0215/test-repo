@@ -1,5 +1,5 @@
 #!/bin/bash
-b=20
+b=2
 if [ $b -gt 9 ]
 then 
 echo "b is grater"

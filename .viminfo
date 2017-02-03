@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
 :q!
 
 # Search String History (newest to oldest):
@@ -23,12 +24,22 @@
 	d8e4dbf30b3d47efa06ad22eacac4d26
 
 # File marks:
-'0  1  71  /var/lib/jenkins/secrets/initialAdminPassword
+'0  2  2  ~/b.sh
+'1  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 
 # Jumplist (newest first):
+-'  2  2  ~/b.sh
+-'  1  0  ~/b.sh
+-'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 -'  1  71  /var/lib/jenkins/secrets/initialAdminPassword
 
 # History of marks within files (newest to oldest):
+
+> ~/b.sh
+	"	2	2
+	^	2	3
+	.	2	3
+	+	2	3
 
 > /var/lib/jenkins/secrets/initialAdminPassword
 	"	1	71
